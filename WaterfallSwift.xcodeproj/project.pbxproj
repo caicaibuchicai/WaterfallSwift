@@ -18,7 +18,6 @@
 		840E3DF123501DF300185999 /* NewCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 840E3DEE23501DF200185999 /* NewCollectionViewCell.xib */; };
 		840E3DF223501DF300185999 /* NewCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840E3DEF23501DF200185999 /* NewCollectionViewCell.swift */; };
 		840E3DF323501DF300185999 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840E3DF023501DF200185999 /* Model.swift */; };
-		840E3DF923505AB200185999 /* 主页.svg in Resources */ = {isa = PBXBuildFile; fileRef = 840E3DF823505AB200185999 /* 主页.svg */; };
 		E670075F3429FABF1BFFCBA3 /* Pods_WaterfallSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1359E0E569CE3F95ECA91168 /* Pods_WaterfallSwift.framework */; };
 /* End PBXBuildFile section */
 
@@ -37,7 +36,6 @@
 		840E3DEE23501DF200185999 /* NewCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewCollectionViewCell.xib; sourceTree = "<group>"; };
 		840E3DEF23501DF200185999 /* NewCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewCollectionViewCell.swift; sourceTree = "<group>"; };
 		840E3DF023501DF200185999 /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
-		840E3DF823505AB200185999 /* 主页.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "主页.svg"; sourceTree = "<group>"; };
 		8C1BFAD2B1D0B259BBC1B5D5 /* Pods-WaterfallSwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WaterfallSwift.debug.xcconfig"; path = "Target Support Files/Pods-WaterfallSwift/Pods-WaterfallSwift.debug.xcconfig"; sourceTree = "<group>"; };
 		FCAD2E978939C29B6D9E4945 /* Pods-WaterfallSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WaterfallSwift.release.xcconfig"; path = "Target Support Files/Pods-WaterfallSwift/Pods-WaterfallSwift.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -100,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				840E3DEA23500F7A00185999 /* WaterfallViewController.swift */,
-				840E3DF823505AB200185999 /* 主页.svg */,
 				840E3DEF23501DF200185999 /* NewCollectionViewCell.swift */,
 				840E3DEE23501DF200185999 /* NewCollectionViewCell.xib */,
 				840E3DF023501DF200185999 /* Model.swift */,
@@ -180,7 +177,6 @@
 				840E3DE223500EAF00185999 /* LaunchScreen.storyboard in Resources */,
 				840E3DDF23500EAF00185999 /* Assets.xcassets in Resources */,
 				840E3DDD23500EAD00185999 /* Main.storyboard in Resources */,
-				840E3DF923505AB200185999 /* 主页.svg in Resources */,
 				840E3DF123501DF300185999 /* NewCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

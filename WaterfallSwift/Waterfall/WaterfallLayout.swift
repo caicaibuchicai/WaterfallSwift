@@ -16,7 +16,7 @@ import UIKit
     /// - Parameters:
     ///   - layout: 布局
     ///   - indexPath: 位置
-    /// - Returns: 高度
+    /// - Returns: 高度比例
     func waterfallLayout(_ layout : WaterfallLayout, indexPath : IndexPath) -> CGFloat
     
     /// 瀑布流一共有多少列，默认时三列
